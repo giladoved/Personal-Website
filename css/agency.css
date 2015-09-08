@@ -291,7 +291,7 @@ header .intro-text .intro-heading {
     margin-bottom: 25px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 50px;
+    font-size: 44px;
     font-weight: 700;
     line-height: 50px;
 }
@@ -782,6 +782,7 @@ ul.social-buttons li a:active {
 .portfolio-modal .modal-content h2 {
     margin-bottom: 15px;
     font-size: 3em;
+    text-transform: none;
 }
 
 .portfolio-modal .modal-content p {
